@@ -1,5 +1,5 @@
 ### 💫 About me
-<a href="https://jay-de.notion.site/c736a27d13a949798b6b1cb2c9435dbb?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" width="150%" height="150%"/></a>
+<a href="https://jay-de.notion.site/c736a27d13a949798b6b1cb2c9435dbb?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" width="10%" height="10%"/></a>
 
 <!--
 **ariha1982/ariha1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
