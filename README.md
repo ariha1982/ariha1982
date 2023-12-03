@@ -1,6 +1,6 @@
-### 💫 About me [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fariha1982%2Fhit-counter&count_bg=%23B6BFFF&title_bg=%23949494&icon=nintendoswitch.svg&icon_color=%23EBEBEB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://jay-de.notion.site/c736a27d13a949798b6b1cb2c9435dbb?pvs=4">![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
-<a href="https://ariha1982.tistory.com/">![Tistory](https://img.shields.io/badge/tistory-FF5500?style=for-the-badge&logo=tistory&logoColor=white)</a>
+### 💫 About me
+<a href="https://jay-de.notion.site/c736a27d13a949798b6b1cb2c9435dbb?pvs=4">![Notion](https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black)</a>
+<a href="https://ariha1982.tistory.com/">![Tistory](https://img.shields.io/badge/tistory-ffffff?style=for-the-badge&logo=tistory&logoColor=black)</a>
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=black)
 ![Javascript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=black)
