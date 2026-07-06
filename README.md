@@ -27,9 +27,4 @@
 ![VSCode](https://img.shields.io/badge/visual_studio_code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![IntelliJ](https://img.shields.io/badge/intellij_idea-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/eclipse_ide-FFFFFF?style=for-the-badge&logo=eclipseide&logoColor=black)
-<!--### 🎖️ Ranking
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ariha1982)](https://solved.ac/ariha1982)-->
-### 🥧 Github Stats
-![Jayde's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariha1982&show_icons=true&theme=solarized-light&hide_border=true)
-<a href="https://github.com/ariha1982"><img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariha1982&layout=donut&theme=solarized-light&hide_border=true" /></a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ariha1982&theme=solarized-light&hide_border=true&card_width=790" alt="GitHub Streak" /></a>
+
