@@ -27,4 +27,6 @@
 ![VSCode](https://img.shields.io/badge/visual_studio_code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![IntelliJ](https://img.shields.io/badge/intellij_idea-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/eclipse_ide-FFFFFF?style=for-the-badge&logo=eclipseide&logoColor=black)
-
+### 👾 Git Status
+![Hyeonjo's GitHub stats](https://github-stats-extended.vercel.app/api?username=ariha1982&show_icons=true&rank_icon=github&bg_color=FCFCEE&title_color=E68A4A&icon_color=9DBB80&text_color=6B5E52&border_color=EEE7DA&line_height=28)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ariha1982&layout=donut&bg_color=FCFCEE&title_color=E68A4A&text_color=6B5E52&border_color=EEE7DA)](https://github.com/stats-organization/github-stats-extended)
